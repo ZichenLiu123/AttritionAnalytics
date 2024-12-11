@@ -38,10 +38,11 @@ Machine learning classifiers, particularly Logistic Regression with L2 Regulariz
 - Incorporating additional features, such as time-series data, may further enhance accuracy and robustness.  
 
 ### References  
-1. [Source 1]  
-2. [Source 2]  
-3. IBM Watson Simulated Data  
-4. Borda Count System Documentation  
+1. “Why do people stay in healthcare?,” National Center for Biotechnology Information, Jul. 01, 2022. [Online]. Available: https://pmc.ncbi.nlm.nih.gov/articles/PMC9243774/ [Accessed: Nov. 25, 2024].
+2. “Employee turnover rates in the healthcare industry,” DailyPay, Nov. 18, 2023. [Online]. Available:https://www.dailypay.com/resource-center/blog/employee-turnover-rates-in-the-healthcare-industry/ [Accessed: Nov. 25, 2024].
+3. J. P. Miller, "Employee Attrition for Healthcare," Kaggle, [Online]. Available: https://www.kaggle.com/datasets/jpmiller/employee-attrition-for-healthcare. [Accessed: Nov. 26, 2024].
+4.	Y. Saeys, T. Abeel, and Y. Van de Peer, "Robust Feature Selection Using Ensemble Feature Selection Techniques," in Machine Learning and Knowledge Discovery in Databases, W. Daelemans, B. Goethals, and K. Morik, Eds., Lecture Notes in Computer Science, vol. 5212, Berlin, Heidelberg: Springer, 2008, pp. 313–325. doi: 10.1007/978-3-540-87481-2_21.
+
 
 ---  
 This repository contains code, analysis, and documentation for the study. For more details, see the [Methods](#methods) and [Results](#results) sections. Contributions and discussions are welcome to extend this work further.  
